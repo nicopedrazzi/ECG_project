@@ -1,19 +1,15 @@
-# Python bytecode / cache
 __pycache__/
 *.pyc
 
-# Virtual env
 .venv/
 
-# Big data (CHANGE THIS to your real folder name)
 ECG_dataset
-
-# Kaggle zips / large artifacts
 *.zip
 *.npz
 *.npy
 *.pt
 *.h5
-
-# Jupyter
 .ipynb_checkpoints/
+*.json
+*.csv
+
